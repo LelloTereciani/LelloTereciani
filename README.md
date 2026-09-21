@@ -29,7 +29,7 @@ The technologies below are evidenced by code, dependency manifests, or documenta
 
 ## Additional learning
 
-Vue.js is part of my self-directed learning. ethers.js and web3.js are associated with my NearX coursework and studies on Web3 libraries. They are not presented here as verified dependencies of the public projects above.
+Vue.js is part of my self-directed learning. Python and pytest are part of my broader study and tooling knowledge. ethers.js and web3.js are associated with my NearX coursework and studies on Web3 libraries. These learning items are not presented here as verified dependencies of the public projects above.
 
 ## Featured work
 
